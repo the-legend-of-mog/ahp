@@ -1,0 +1,92 @@
+#or {
+  text-align:center;
+}
+#logo{
+  width: 40px;
+  height: 40px;
+}
+#logo:hover{
+  width: 60px;
+  height: 60px;
+}
+#navbar{
+  background-color: rgba(0, 0, 255, 0.4);
+}
+.nav-item{
+  color:rgba(29, 29, 247, 0.5);
+  text-shadow: 2px 2px 5px;
+  font-size: 18pt;
+  margin-right: 40px;
+}
+.nav-item:hover{
+  color:rgba(0, 0, 40,2);
+  text-shadow: 4px 4px 10px;
+  font-size: 20pt;
+}
+#container{
+  margin: auto;
+  width: 400px;
+}
+#body{
+  background-color: rgba(29, 255, 192, 0.3);
+}
+.qcard{
+  margin: auto;
+  width: 600px;
+}
+input.question{
+  width: 560px;
+  overflow: auto;
+}.cahrd{
+    background-color: rgba(29, 255, 192, 0.1);
+}
+.true{
+  display: none;
+}
+.multiple{
+  display: none;
+}
+.mc{
+  display: none;
+}
+#Retakable{
+  margin-left: 48vw;
+  margin-right: 48vw;
+}
+
+.button{
+  justify-content: right;
+  background-color: rgba(29, 255, 192, 0.15);
+  border: hidden;
+}
+button:hover{
+  background-color:  rgba(29, 255, 192, 0.5);
+}
+#submit{
+  width: 12vw;
+  margin-left: 44vw;
+  margin-top: 20px;
+  height: 30px;
+}
+#lol{
+  text-shadow: 2px 2px 5px;
+  font-size: 18pt;
+}
+#lol:hover{
+  color:rgba(0, 0, 40,2);
+  text-shadow: 4px 4px 10px;
+  font-size: 20pt;
+}
+.entry-card{
+  text-align: center;
+  margin: auto;
+  width: 800px;
+}
+.name{
+  font-family: Audiowide;
+  font-size: 30px;
+}
+.buttton{
+  justify-content: right;
+  border: hidden;
+}
